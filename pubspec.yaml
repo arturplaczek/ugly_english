@@ -7,9 +7,12 @@ environment:
   sdk: ">=3.1.0 <4.0.0"
 
 dependencies:
+  app_layers:
+    path: packages/app_layers
   app_ui:
     path: packages/app_ui
   bloc: ^8.1.2
+  equatable: ^2.0.5
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.3

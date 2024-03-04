@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "188563885322",
+    "project_id": "ugly-english",
+    "storage_bucket": "ugly-english.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188563885322:android:7489f0258cfe4504e3bef3",
+        "android_client_info": {
+          "package_name": "com.ugly.english.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv20CKmZNBVV-Wx_EZzEJn5pzenVKAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188563885322:android:cdaa3d474639198de3bef3",
+        "android_client_info": {
+          "package_name": "com.ugly.english.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv20CKmZNBVV-Wx_EZzEJn5pzenVKAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188563885322:android:13adda14eb3e53ffe3bef3",
+        "android_client_info": {
+          "package_name": "com.ugly.english.app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv20CKmZNBVV-Wx_EZzEJn5pzenVKAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
