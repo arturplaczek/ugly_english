@@ -11,7 +11,7 @@ dependencies:
     path: packages/app_layers
   app_ui:
     path: packages/app_ui
-  bloc: ^8.1.2
+  bloc: ^8.1.4
   equatable: ^2.0.5
   flutter:
     sdk: flutter
